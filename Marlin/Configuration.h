@@ -829,7 +829,7 @@
 #define PREHEAT_1_FAN_SPEED    10 // Value from 0 to 255
 
 #define PREHEAT_2_TEMP_HOTEND 240
-#define PREHEAT_2_TEMP_BED    105
+#define PREHEAT_2_TEMP_BED    100
 #define PREHEAT_2_FAN_SPEED    10 // Value from 0 to 255
 
 //
